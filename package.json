@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "^3.0.0",
+        "react-native-root-siblings": "git+https://github.com/swapkids/react-native-root-siblings.git#master",
         "prop-types": "^15.5.10"
     },
     "peerDependencies": {
